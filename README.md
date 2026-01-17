@@ -5,7 +5,7 @@ End-to-end machine learning project for credit risk assessment, predicting wheth
 
 ## Requirements
 
-- Python 3.13.9
+- Python 3.13.5
 
 #### Install Python using MiniConda
 
